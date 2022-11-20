@@ -15,7 +15,7 @@ console.log(weather)
 export default function App() {
   return (
     <div className="App">
-      <h1>Weather Forecast</h1>
+      <h1>An's Weather Forecast</h1>
       <div className="weather">
         {weather}
       </div>
